@@ -14,7 +14,7 @@ Languages  :  Python, C++, C#
   Discord  :  665188347056095237
 ```
 
-```json
+```text
 I like to look at stuff.
 ```
 
