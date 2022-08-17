@@ -1,7 +1,7 @@
 <p align="center"><img src="https://gpvc.arturio.dev/LethalAspect" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/LethalAspect" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/LethalAspect" alt="Profile Forks"></a>
-<p align="center"><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank"><img src="https://discordapp.com/api/guilds/995960657214189578/widget.png?style=shield" alt="click me"></a></p></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-click-icon-2384-thumb.png" alt="click me"></a></p></p>
 
 ```python
 print(f'Hello there!')
