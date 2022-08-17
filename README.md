@@ -15,7 +15,7 @@ Languages  :  Python, C++, C#
 ```
 
 ```text
-I like to look at stuff.
+Welcome to my profile!
 ```
 
 <a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
