@@ -8,9 +8,9 @@ print(f'Hello there!')
 ```
 
 ```python
-       OS  :  nt10
+       OS  :  Win10
    Python  :  python 3.9.12
-Languages  :  Python, Java, Js, Batch, C, HTML/CSS
+Languages  :  Python, C++, C#
   Discord  :  665188347056095237
 ```
 
